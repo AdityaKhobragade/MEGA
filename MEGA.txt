@@ -1,0 +1,15 @@
+npm create vite@latest reactProject
+npm i
+npm install @reduxjs/toolkit 
+            react-redux
+            react-router-dom 
+            appwrite 
+            @tinymce/tinymce-react 
+            html-react-parser 
+            react-hook-form
+
+env and appwrite
+authservices
+CRUD services
+redux setup Store
+
