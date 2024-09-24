@@ -8,8 +8,9 @@ npm install @reduxjs/toolkit
             html-react-parser 
             react-hook-form
 
-env and appwrite
-authservices
-CRUD services
-redux setup Store
+1. env and appwrite (conf.js)
+2. authservices (appwrite - auth.js)
+3. CRUD services (appwrite - config.js)
+4. redux setup Store (store - store.js)
+Containers
 
